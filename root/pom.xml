@@ -37,7 +37,7 @@
 
         <!-- Maven repos -->
         <repo.maven.central.url>https://repo.maven.apache.org/maven2</repo.maven.central.url>
-        <repo.maven.dbeaver-custom.url>https://nexus.dbeaver.net/repository/maven-custom/</repo.maven.dbeaver-custom.url>
+        <!-- <repo.maven.dbeaver-custom.url>https://nexus.dbeaver.net/repository/maven-custom/</repo.maven.dbeaver-custom.url> -->
 
         <!-- Component versions -->
         <java.version>21</java.version> <!-- Default Java version -->
