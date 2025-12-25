@@ -32,12 +32,12 @@
         <repo.p2.eclipse.url>${eclipse-repo-url}/${eclipse-version}/</repo.p2.eclipse.url>
 
         <repo.p2.dbeaver.version>${dbeaver-version}</repo.p2.dbeaver.version>
-        <repo.p2.dbeaver-ce.url>https://repo.dbeaver.net/p2/ce/${repo.p2.dbeaver.version}</repo.p2.dbeaver-ce.url>
-        <repo.p2.dbeaver-pro.url>https://repo.dbeaver.net/p2/pro/${repo.p2.dbeaver.version}</repo.p2.dbeaver-pro.url>
+        <!-- <repo.p2.dbeaver-ce.url>https://repo.dbeaver.net/p2/ce/${repo.p2.dbeaver.version}</repo.p2.dbeaver-ce.url> -->
+        <!-- <repo.p2.dbeaver-pro.url>https://repo.dbeaver.net/p2/pro/${repo.p2.dbeaver.version}</repo.p2.dbeaver-pro.url> -->
 
         <!-- Maven repos -->
         <repo.maven.central.url>https://repo.maven.apache.org/maven2</repo.maven.central.url>
-        <repo.maven.dbeaver-custom.url>https://nexus.dbeaver.net/repository/maven-custom/</repo.maven.dbeaver-custom.url>
+        <!-- <repo.maven.dbeaver-custom.url>https://nexus.dbeaver.net/repository/maven-custom/</repo.maven.dbeaver-custom.url> -->
 
         <!-- Component versions -->
         <java.version>21</java.version> <!-- Default Java version -->
